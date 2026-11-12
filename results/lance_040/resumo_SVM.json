@@ -1,0 +1,16 @@
+{
+  "modelo": "SVM",
+  "lance": 40,
+  "criterio": "roc_auc",
+  "folds": 5,
+  "configuracoes_distintas_completas": 100,
+  "trials_completos": 100,
+  "melhor_cv_roc_auc": 0.5614489449261117,
+  "melhores_parametros": {
+    "select_k": 24,
+    "kernel": "linear",
+    "C": 17.74209743920824
+  },
+  "arquivo_dados": "data\\piloto_final\\lance_040.csv",
+  "seed": 210906
+}

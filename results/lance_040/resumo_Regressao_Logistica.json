@@ -1,0 +1,16 @@
+{
+  "modelo": "Regressao_Logistica",
+  "lance": 40,
+  "criterio": "roc_auc",
+  "folds": 5,
+  "configuracoes_distintas_completas": 100,
+  "trials_completos": 100,
+  "melhor_cv_roc_auc": 0.5624279386374956,
+  "melhores_parametros": {
+    "select_k": 24,
+    "penalty": "l2",
+    "C": 948.8141516834951
+  },
+  "arquivo_dados": "data\\piloto_final\\lance_040.csv",
+  "seed": 210906
+}

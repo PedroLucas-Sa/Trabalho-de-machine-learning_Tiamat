@@ -1,0 +1,271 @@
+game_id,handicap,rank_b,rank_w,y_real,y_pred,score_W,tipo_score,acertou,grupo_handicap,grupo_rank
+val:0000/00000080,4.0,1,7,0,1,0.6284588696767596,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0000/00000170,0.0,15,15,1,0,0.481053667894068,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000241,0.0,9,9,0,1,0.5069412321395058,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000294,0.0,7,7,0,0,0.4909526877819729,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000325,0.0,7,8,0,1,0.5946219820626226,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000332,0.0,15,10,0,0,0.4253162543574705,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0000/00000368,0.0,8,9,0,0,0.4979663208664861,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000448,0.0,6,7,0,1,0.6075632256875715,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000487,0.0,9,6,0,0,0.465813748617797,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0000/00000527,0.0,7,7,0,0,0.4725486350293275,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000575,0.0,7,7,0,1,0.5005582003594323,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000588,0.0,7,7,1,1,0.5245170008098077,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000634,0.0,15,15,0,0,0.46334506749272747,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000655,0.0,11,11,0,1,0.5005157479885051,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000682,0.0,7,8,1,0,0.493997514927821,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000716,0.0,11,11,0,0,0.3680804551526087,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000731,0.0,7,13,1,1,0.5300285537699281,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0000/00000770,0.0,15,15,1,1,0.5203842887566414,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000822,0.0,9,8,0,1,0.5006759985706403,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0000/00000826,0.0,9,9,0,0,0.44027824133971516,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0000/00000911,0.0,3,9,1,1,0.5118775596447619,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0001/00001048,4.0,3,7,1,1,0.561847467765745,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0001/00001069,0.0,13,13,1,0,0.41354173103617264,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001183,0.0,9,13,1,1,0.512224480354537,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0001/00001253,3.0,5,8,0,1,0.5960149577047058,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0001/00001291,0.0,14,15,0,0,0.47281537259595263,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001322,9.0,-5,7,0,1,0.6951289276608635,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0001/00001351,0.0,15,15,1,0,0.43813266421747715,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001396,0.0,15,13,1,0,0.48605787246710397,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001460,0.0,5,6,0,1,0.5032757160643001,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001488,0.0,15,15,1,1,0.519876796528234,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001503,0.0,13,14,1,0,0.4427847181646938,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001543,0.0,6,7,0,1,0.5954134100001105,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001545,0.0,15,15,0,0,0.4635910581647249,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001625,0.0,14,15,1,1,0.5189429678871996,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001627,0.0,5,5,1,0,0.45986139233040996,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001667,0.0,7,2,0,0,0.41328950673552656,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0001/00001695,0.0,11,11,0,1,0.5092872268398356,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001696,0.0,9,9,0,1,0.5176516905598713,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001708,0.0,15,13,0,0,0.4255189981668216,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001747,0.0,15,14,0,0,0.4131741175264337,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001763,2.0,5,7,1,1,0.6448890433205734,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0001/00001766,0.0,6,6,0,0,0.45864357255859667,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001770,0.0,6,7,1,1,0.6352489351622586,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001829,0.0,6,7,1,1,0.5947240953101414,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001837,3.0,4,7,1,1,0.6142782584769456,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0001/00001844,0.0,6,7,1,1,0.6286496212234983,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001861,0.0,13,13,1,0,0.4937234615746407,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0001/00001975,0.0,6,7,1,1,0.5740941765365001,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001984,0.0,13,15,1,1,0.5565969521978492,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0001/00001985,0.0,5,6,1,1,0.5436335245352039,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002030,0.0,9,10,0,1,0.5758367961841391,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002093,0.0,8,9,1,0,0.47109368547394964,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002098,0.0,8,8,0,1,0.5394762772382389,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002126,0.0,14,10,0,0,0.4798212869937695,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0002/00002132,5.0,2,7,1,1,0.6162220567746688,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0002/00002217,2.0,6,8,1,1,0.6101258588135926,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0002/00002263,0.0,7,7,1,0,0.43008893779024104,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002311,0.0,6,6,0,0,0.39873394613730545,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002333,0.0,15,15,1,0,0.4861723845881867,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002395,4.0,5,7,1,1,0.5616736513804215,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0002/00002402,0.0,14,15,0,1,0.5424340240882431,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002444,0.0,6,7,1,1,0.5997439934393953,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002454,0.0,9,7,0,0,0.4751015056987607,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002474,0.0,10,9,1,1,0.529009236986678,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002484,0.0,9,9,0,0,0.4931838096370544,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002542,0.0,6,7,1,1,0.6231661187619779,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002569,0.0,7,8,1,1,0.6376926773311783,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002603,5.0,-1,7,1,1,0.6331670273085493,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0002/00002668,0.0,6,6,0,0,0.41345193657105106,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0002/00002847,0.0,15,15,1,0,0.4901970127354945,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002884,0.0,9,7,1,0,0.48100946547525125,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002912,2.0,5,7,1,1,0.6046013443453154,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0002/00002921,0.0,6,6,1,0,0.4689694759243169,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002935,0.0,15,15,1,0,0.45365358298642183,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0002/00002995,2.0,5,7,1,1,0.5185947515087206,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0003/00003012,0.0,8,9,0,0,0.4009117438716601,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003081,0.0,9,6,0,1,0.5003812087118342,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0003/00003147,0.0,9,7,0,0,0.41143788829304806,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003241,0.0,6,9,0,1,0.5623383469230779,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0003/00003250,0.0,1,1,0,0,0.4998833735628842,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003269,0.0,15,13,1,0,0.4108110468327037,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003314,0.0,15,15,0,0,0.4573078924932858,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003343,0.0,15,12,0,0,0.44518700944597867,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0003/00003355,0.0,15,15,0,0,0.4611016218718175,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003399,0.0,15,15,1,1,0.5856180744939101,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003430,0.0,11,9,0,0,0.48409698257044254,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003442,0.0,4,5,0,1,0.5346227729031109,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003544,0.0,15,13,1,0,0.42237453250933316,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003569,0.0,7,8,1,1,0.5433436635052081,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003570,0.0,15,14,1,1,0.5437658338613909,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003618,0.0,9,15,0,0,0.4923345518599889,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0003/00003647,0.0,6,6,0,0,0.45803571821468203,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003703,0.0,9,9,0,1,0.5407437646081155,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003725,0.0,6,7,1,1,0.5828631188459193,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003742,0.0,6,6,1,0,0.4627955643422779,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003750,0.0,6,4,0,0,0.4386450984271883,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003751,0.0,7,9,1,0,0.45390602718341205,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003754,0.0,15,15,1,0,0.49927055289304806,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003774,0.0,15,15,1,0,0.4617054495327523,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003822,0.0,9,10,1,1,0.5249845948652592,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003828,0.0,15,15,1,1,0.5281967944431946,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003829,0.0,7,7,1,0,0.46147384056174173,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0003/00003977,0.0,7,7,0,0,0.49246996115483704,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003988,0.0,8,8,1,1,0.5352032263334583,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0003/00003992,0.0,4,8,1,1,0.5780229908981465,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0003/00003993,0.0,6,6,0,0,0.4934084106559268,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004014,0.0,7,8,0,0,0.4634756201589332,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004015,0.0,4,6,0,0,0.45627258186954095,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004226,2.0,5,7,0,1,0.549994892692388,probabilidade_W,False,com handicap,Diferença entre -2 e +2
+val:0004/00004239,0.0,9,4,0,0,0.42800742158126526,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0004/00004281,0.0,9,9,0,1,0.5092289311417083,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0004/00004320,0.0,6,7,1,1,0.5879029039506483,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004370,0.0,12,12,0,1,0.5317156887619326,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0004/00004373,0.0,6,6,0,0,0.44702342697241265,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004436,0.0,5,8,0,0,0.4866086380442962,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0004/00004443,0.0,6,7,0,1,0.574348817774487,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0004/00004475,0.0,12,11,0,1,0.5024195429810955,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0004/00004536,0.0,6,7,1,1,0.5913500792962015,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004538,0.0,2,9,1,1,0.5519045933963479,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0004/00004549,0.0,15,9,1,0,0.4778839357516274,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0004/00004606,0.0,7,11,0,1,0.5597104248956399,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0004/00004609,0.0,4,4,0,0,0.4971366110169816,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004628,0.0,6,6,0,0,0.4258112211520881,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004664,0.0,15,15,1,1,0.5123981670394454,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004698,0.0,15,14,0,0,0.46719353922754664,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004703,0.0,14,15,0,0,0.4730464177571615,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004728,0.0,6,7,1,1,0.5821942872116233,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004784,0.0,9,15,1,1,0.5143471335508727,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0004/00004878,0.0,9,9,1,1,0.5044982406600728,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0004/00004969,0.0,12,15,1,1,0.5441915619122227,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0005/00005073,0.0,13,13,0,0,0.44986718926002167,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005081,0.0,11,12,0,0,0.46489836755948316,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005123,0.0,3,1,1,0,0.4279070733193324,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005150,0.0,6,6,0,0,0.4199146494711755,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005221,0.0,8,8,1,0,0.4811855259308519,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005224,2.0,5,7,1,1,0.6028986310519668,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0005/00005258,2.0,5,7,1,1,0.5944436384054835,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0005/00005259,0.0,6,6,1,0,0.4735750436328204,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005381,0.0,14,14,0,1,0.5065445270197223,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005389,0.0,10,12,0,1,0.5420536493284014,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005391,0.0,8,13,1,1,0.5556155239147125,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0005/00005497,3.0,3,7,1,1,0.6532973822145912,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0005/00005578,0.0,13,13,1,0,0.3935344485081916,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005586,0.0,6,7,0,1,0.6535339665561202,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005630,0.0,5,6,1,1,0.573666022801207,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005656,0.0,6,6,1,0,0.47061698801251256,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005661,0.0,9,9,1,1,0.5181260889397528,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005702,0.0,4,6,0,0,0.41685502093604954,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005712,0.0,15,15,0,1,0.5036885410975445,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005739,0.0,11,10,1,1,0.5313946615778562,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005836,0.0,9,2,0,0,0.4648657747161835,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0005/00005865,0.0,15,15,1,0,0.4951718430196429,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005898,0.0,9,8,1,1,0.5046365599275393,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005906,0.0,13,15,0,1,0.5029193530706312,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005907,0.0,7,10,0,1,0.527543665413298,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0005/00005932,0.0,7,7,0,0,0.4773766234715351,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0005/00005937,0.0,9,8,1,0,0.4822297714824766,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0005/00005979,0.0,9,6,1,0,0.4177589896516976,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0006/00006013,0.0,15,13,1,0,0.4602523274080961,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006032,0.0,14,15,1,1,0.5457896470729968,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006133,0.0,5,6,0,0,0.4593275444539303,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006309,3.0,4,7,1,1,0.5630737987127921,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0006/00006355,0.0,6,7,1,1,0.6174174131193827,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006401,0.0,13,13,1,0,0.4602927083454521,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006513,0.0,6,7,0,1,0.5393071038972687,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006520,5.0,2,7,0,1,0.6255552840868583,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0006/00006537,0.0,9,7,0,1,0.5072220033945533,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006542,0.0,12,14,1,1,0.5432235863885719,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006576,0.0,13,8,1,0,0.4482537036352738,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0006/00006590,0.0,9,1,1,0,0.46616458885699175,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0006/00006593,0.0,2,8,0,1,0.535434884747185,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0006/00006602,2.0,5,7,1,1,0.5673944135715643,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0006/00006617,0.0,12,13,0,0,0.43086232577259004,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006634,2.0,6,8,1,1,0.5926054446983742,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0006/00006637,0.0,14,14,0,0,0.4543151312983051,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006684,0.0,6,6,0,0,0.4695254400550407,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006688,0.0,15,15,0,1,0.5277130022096443,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006720,0.0,8,9,1,1,0.584132380336395,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006749,0.0,4,9,1,1,0.5092657316084328,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0006/00006751,0.0,15,15,0,0,0.41927397303168645,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006785,0.0,15,15,0,1,0.5157141328448513,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006831,0.0,6,6,1,0,0.45410238015147736,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006845,0.0,15,15,1,0,0.4637344438724416,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006901,0.0,7,9,0,1,0.5372110471350278,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006933,0.0,15,14,0,1,0.5259350481266841,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0006/00006967,0.0,6,7,1,1,0.6304201432951712,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0006/00006971,0.0,6,6,1,0,0.47293162578671455,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007042,0.0,7,8,0,1,0.5719107025601499,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007093,0.0,15,14,0,0,0.4365623539864197,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007096,0.0,7,7,1,0,0.45860595794012254,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007110,0.0,6,9,0,0,0.47848948686494686,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0007/00007125,0.0,9,9,0,1,0.5102202016128528,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007177,0.0,9,1,0,0,0.4448234975752971,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0007/00007181,0.0,7,7,1,0,0.44192867001202124,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007213,0.0,4,4,0,1,0.5490924384672187,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007266,0.0,9,9,0,0,0.487310874957217,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007320,0.0,9,9,1,1,0.5310589814172656,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007325,0.0,15,15,1,0,0.4815210828027612,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007451,0.0,6,6,1,1,0.5007673388689544,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007464,0.0,9,10,1,0,0.4545043706489842,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007527,0.0,4,6,1,1,0.5227974673577443,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007540,0.0,7,9,0,0,0.3552559189292006,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007572,0.0,4,9,1,1,0.5969526063651357,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0007/00007632,0.0,9,11,0,1,0.5112706115545569,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007691,0.0,6,6,0,0,0.43978910996053616,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007754,0.0,9,6,0,0,0.48942399744812654,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0007/00007768,0.0,9,9,1,0,0.4727597289322323,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007821,0.0,9,7,0,0,0.46350521872830547,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007834,0.0,15,13,1,0,0.48213849253902,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007895,0.0,11,15,1,1,0.5063144876898831,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0007/00007904,0.0,8,8,1,0,0.4169337658305337,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0007/00007909,0.0,12,13,0,0,0.47874986917075946,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007958,0.0,7,7,0,0,0.4936452343446874,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0007/00007984,0.0,7,7,1,0,0.4670888692637947,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008075,2.0,6,8,0,1,0.5991227814819443,probabilidade_W,False,com handicap,Diferença entre -2 e +2
+val:0008/00008078,8.0,-2,7,1,1,0.5388002538064547,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0008/00008159,0.0,4,5,0,1,0.5914206254904598,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008196,2.0,5,7,0,1,0.5525952174016662,probabilidade_W,False,com handicap,Diferença entre -2 e +2
+val:0008/00008219,0.0,6,6,1,0,0.4819365965260011,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008220,0.0,15,15,0,0,0.4651825101246279,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008277,2.0,7,9,0,1,0.5651055215053682,probabilidade_W,False,com handicap,Diferença entre -2 e +2
+val:0008/00008295,0.0,6,9,0,1,0.549198219826295,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0008/00008299,0.0,6,6,0,0,0.47796631827140934,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008344,0.0,9,9,0,0,0.49635238319607217,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008374,0.0,5,5,1,0,0.4717744951480545,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008387,2.0,11,14,0,1,0.5289109720523829,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0008/00008471,0.0,15,14,1,0,0.46502700568645294,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008483,0.0,8,8,1,1,0.5180225175091393,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008513,0.0,15,15,0,0,0.45674037592982963,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008516,0.0,15,14,0,0,0.46267773801738143,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008579,2.0,5,7,1,1,0.6004847149830642,probabilidade_W,True,com handicap,Diferença entre -2 e +2
+val:0008/00008595,0.0,6,7,1,1,0.6245031953932862,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008637,0.0,4,6,1,1,0.5600093352344445,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008690,0.0,9,11,1,1,0.5080729662516705,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0008/00008743,0.0,6,6,1,0,0.4991333501759583,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008909,3.0,4,7,1,1,0.5783991055733856,probabilidade_W,True,com handicap,W pelo menos 3 unidades acima
+val:0008/00008937,0.0,6,7,0,1,0.538380295077306,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008946,0.0,15,13,1,0,0.44402399277659377,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0008/00008952,0.0,15,15,0,1,0.555964974249724,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009025,0.0,15,13,0,0,0.4557955144381553,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009146,0.0,10,10,0,0,0.4900052807626294,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009230,0.0,8,8,1,1,0.5306097701997211,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009278,0.0,6,6,1,0,0.41452354610113107,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009408,0.0,9,8,0,0,0.472971482928998,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009452,0.0,8,9,0,1,0.5128799988300944,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009473,0.0,10,8,0,0,0.4750316247168192,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009485,0.0,7,8,1,1,0.5963458313225662,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009488,0.0,11,14,0,0,0.4729135967341484,probabilidade_W,True,sem handicap,W pelo menos 3 unidades acima
+val:0009/00009494,0.0,6,7,0,1,0.614176880912764,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009501,0.0,9,9,1,1,0.5086000670987475,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009503,0.0,15,9,0,0,0.4237062427753934,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0009/00009556,4.0,3,7,0,1,0.6200974962569539,probabilidade_W,False,com handicap,W pelo menos 3 unidades acima
+val:0009/00009559,0.0,8,8,0,0,0.41255814109594957,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009569,2.0,6,8,0,1,0.5971336919459141,probabilidade_W,False,com handicap,Diferença entre -2 e +2
+val:0009/00009628,0.0,9,15,0,1,0.5363227374599812,probabilidade_W,False,sem handicap,W pelo menos 3 unidades acima
+val:0009/00009632,0.0,6,8,0,1,0.5099476192859759,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009664,0.0,13,15,0,0,0.4904892653042065,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009666,0.0,9,9,0,0,0.47407319004289306,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009673,0.0,7,8,1,1,0.5221099771850098,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009695,0.0,6,6,0,0,0.36123588990951994,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009698,0.0,7,9,1,0,0.43734740531244654,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009756,0.0,15,15,1,0,0.45435984198757146,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009805,0.0,14,12,1,0,0.4239715277187001,probabilidade_W,False,sem handicap,Diferença entre -2 e +2
+val:0009/00009881,0.0,9,9,1,1,0.5129061702600157,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009897,0.0,6,8,1,1,0.5679415417312933,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009914,0.0,15,12,1,0,0.47431690834050116,probabilidade_W,False,sem handicap,W pelo menos 3 unidades abaixo
+val:0009/00009924,0.0,15,15,0,0,0.4628984149021346,probabilidade_W,True,sem handicap,Diferença entre -2 e +2
+val:0009/00009925,0.0,14,11,0,0,0.48788415504742066,probabilidade_W,True,sem handicap,W pelo menos 3 unidades abaixo
+val:0009/00009945,0.0,15,13,0,0,0.3898949859878453,probabilidade_W,True,sem handicap,Diferença entre -2 e +2

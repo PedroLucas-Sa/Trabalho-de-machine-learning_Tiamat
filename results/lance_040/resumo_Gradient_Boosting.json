@@ -1,0 +1,19 @@
+{
+  "modelo": "Gradient_Boosting",
+  "lance": 40,
+  "criterio": "roc_auc",
+  "folds": 5,
+  "configuracoes_distintas_completas": 100,
+  "trials_completos": 100,
+  "melhor_cv_roc_auc": 0.563409368907619,
+  "melhores_parametros": {
+    "select_k": 24,
+    "n_estimators": 300,
+    "learning_rate": 0.0940549181412037,
+    "max_depth": 1,
+    "min_samples_leaf": 18,
+    "subsample": 0.9998909330103293
+  },
+  "arquivo_dados": "data\\piloto_final\\lance_040.csv",
+  "seed": 210906
+}

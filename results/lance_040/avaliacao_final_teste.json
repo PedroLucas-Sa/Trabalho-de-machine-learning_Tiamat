@@ -1,0 +1,46 @@
+{
+  "modelo": "Random_Forest",
+  "ajustado_em": "train",
+  "assinatura_selecao": "af7ef55909aca682a4dddecdcd8ea9841f349be3c6c9afa08f253afa3dea3ff8",
+  "n_teste": 274,
+  "metricas": {
+    "n": 274,
+    "accuracy": 0.5583941605839416,
+    "balanced_accuracy": 0.5574252136752136,
+    "f1_macro": 0.5573978399882521,
+    "roc_auc": 0.5791666666666666
+  },
+  "dummy": {
+    "n": 274,
+    "accuracy": 0.5255474452554745,
+    "balanced_accuracy": 0.5,
+    "f1_macro": 0.3444976076555024,
+    "roc_auc": 0.5
+  },
+  "intervalos_bootstrap": {
+    "accuracy": {
+      "estimativa": 0.5583941605839416,
+      "inferior_95": 0.5,
+      "superior_95": 0.6204379562043796
+    },
+    "balanced_accuracy": {
+      "estimativa": 0.5574252136752136,
+      "inferior_95": 0.4984949252136752,
+      "superior_95": 0.6183226495726495
+    },
+    "f1_macro": {
+      "estimativa": 0.5573978399882521,
+      "inferior_95": 0.4984862848666501,
+      "superior_95": 0.6184048422518613
+    },
+    "roc_auc": {
+      "estimativa": 0.5791666666666666,
+      "inferior_95": 0.5138822115384615,
+      "superior_95": 0.6459428418803418
+    }
+  },
+  "repeticoes_bootstrap": 2000,
+  "sha256_predicoes": "c2f762472f6dc4a2e2be7ef9d2b21fa4375495d7521dc5ad685dfe435e9c4bb2",
+  "sha256_predicoes_dummy": "61734df216587492a5cea73c6b6dc723433fe47aaad24bf690910f683051e6a2",
+  "limites_bootstrap": "Predições fixas, classes fixas; assume partidas independentes; não cobre busca nem reajuste."
+}

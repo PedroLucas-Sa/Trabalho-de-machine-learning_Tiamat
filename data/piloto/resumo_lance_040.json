@@ -1,0 +1,80 @@
+{
+  "lance": 40,
+  "arquivo": "lance_040.csv",
+  "atributos": [
+    "rank_b",
+    "rank_w",
+    "komi",
+    "handicap",
+    "maior_grupo_b",
+    "maior_grupo_w",
+    "liberdades_maior_grupo_b",
+    "liberdades_maior_grupo_w",
+    "pedras_em_jogo_b",
+    "pedras_em_jogo_w",
+    "pedras_capturadas_por_b",
+    "pedras_capturadas_por_w",
+    "distancia_media_tengen_b",
+    "distancia_media_tengen_w",
+    "quantidade_grupos_b",
+    "quantidade_grupos_w",
+    "tamanho_medio_grupos_b",
+    "tamanho_medio_grupos_w",
+    "liberdades_medias_grupos_b",
+    "liberdades_medias_grupos_w",
+    "grupos_em_atari_b",
+    "grupos_em_atari_w",
+    "pedras_em_atari_b",
+    "pedras_em_atari_w"
+  ],
+  "target": "vencedor",
+  "campos_excluidos_do_modelo": [
+    "game_id",
+    "split",
+    "sgf_path",
+    "hash_sgf",
+    "lance",
+    "vencedor",
+    "rank_b_original",
+    "rank_w_original",
+    "resultado_sgf",
+    "motivo_derrota"
+  ],
+  "contagens": {
+    "train_incluidas": 4900,
+    "train_vitorias_W": 2493,
+    "train_vitorias_B": 2407,
+    "val_incluidas": 288,
+    "val_vitorias_B": 144,
+    "val_vitorias_W": 144,
+    "test_incluidas": 293,
+    "test_vitorias_W": 153,
+    "test_vitorias_B": 140
+  },
+  "auditoria": {
+    "train_erro_sgf": 78,
+    "train_partida_curta": 18,
+    "train_duplicado_exato": 4,
+    "val_erro_sgf": 8,
+    "val_partida_curta": 4,
+    "test_erro_sgf": 7
+  },
+  "amostra_solicitada": {
+    "train": 5000,
+    "val": 300,
+    "test": 300
+  },
+  "seed": 210906,
+  "observacoes": [
+    "Os splits oficiais são preservados na coluna split.",
+    "CSV UTF-8: valores ausentes ficam vazios.",
+    "Nenhuma imputação, normalização ou seleção supervisionada foi aplicada.",
+    "Grupos empatados como maior grupo: liberdades médias desses grupos.",
+    "Distância ao tengen das pedras presentes, não de todas as jogadas.",
+    "Ranks: xd=x, yp=y+6, zk=-z; originais preservados para rastreabilidade.",
+    "Essa escala de rank não é uma equivalência validada de força entre sistemas.",
+    "resultado_sgf e motivo_derrota são metadados de resultado e NÃO podem entrar no modelo preditivo.",
+    "Suicídio não suportado; arquivos problemáticos são auditados.",
+    "Duplicatas exatas de conteúdo SGF são excluídas após a primeira ocorrência."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "modelo": "Random_Forest",
+  "lance": 40,
+  "criterio": "roc_auc",
+  "folds": 5,
+  "configuracoes_distintas_completas": 100,
+  "trials_completos": 100,
+  "melhor_cv_roc_auc": 0.5551928440498719,
+  "melhores_parametros": {
+    "select_k": 24,
+    "n_estimators": 400,
+    "max_depth": 7,
+    "min_samples_leaf": 11,
+    "min_samples_split": 11,
+    "max_features": 0.5667166596386178
+  },
+  "arquivo_dados": "data\\piloto_final\\lance_040.csv",
+  "seed": 210906
+}

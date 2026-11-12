@@ -1,0 +1,21 @@
+{
+  "modelo": "XGBoost",
+  "lance": 40,
+  "criterio": "roc_auc",
+  "folds": 5,
+  "configuracoes_distintas_completas": 100,
+  "trials_completos": 100,
+  "melhor_cv_roc_auc": 0.56200951863075,
+  "melhores_parametros": {
+    "select_k": 24,
+    "n_estimators": 400,
+    "learning_rate": 0.02510644726702581,
+    "max_depth": 2,
+    "min_child_weight": 11,
+    "subsample": 0.9472014896015526,
+    "colsample_bytree": 0.9882585089592861,
+    "reg_lambda": 2.265140820259024
+  },
+  "arquivo_dados": "data\\piloto_final\\lance_040.csv",
+  "seed": 210906
+}
