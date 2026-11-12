@@ -1,0 +1,24 @@
+{
+  "descricao": "Cópias da amostra piloto final fornecida pelo usuário; sem nova extração SGF.",
+  "notebooks_versao": 2,
+  "seed": 210906,
+  "lance": 40,
+  "arquivos": [
+    {
+      "arquivo": "data/piloto_final/auditoria_lance_040.csv",
+      "sha256": "a40356e5b335d7654fb5d670a79527bfaa5b547a961f9b312d66f680a6293192",
+      "bytes": 622429
+    },
+    {
+      "arquivo": "data/piloto_final/lance_040.csv",
+      "sha256": "8bac16bbd6e102cf174a240227b4289b6077db8ad9fcfd037c92b0ea96925cba",
+      "bytes": 1497750
+    },
+    {
+      "arquivo": "data/piloto_final/resumo_lance_040.json",
+      "sha256": "dcb960fb87170b77ab3418a2ff5cf2a836521f61bd286208260094469a549488",
+      "bytes": 2756
+    }
+  ],
+  "continuidade_notebooks": "04–07 adaptados ao 03 original; 01–03 preservados."
+}
